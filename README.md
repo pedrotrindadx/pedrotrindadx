@@ -28,5 +28,3 @@ I'm a Computer Science student with a passion for data science and machine learn
 ## 😄 Pronouns:
 - He/Him
 
-## ⚡ Fun fact:
-- I love solving puzzles and challenges, and I often apply this problem-solving mindset to my coding projects!
